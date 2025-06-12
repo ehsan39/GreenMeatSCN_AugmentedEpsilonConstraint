@@ -11,8 +11,12 @@ The multi-objective optimization model targets the following three goals:
 2.	Minimization of Total CO2 Emissions: Focusing on emissions generated during transportation activities.
 3.	Maximization of Total Capacity Utilization: Ensuring efficient use of established facilities across the supply chain.
 Methodology
+
+
 The model uses the Augmented ε-Constraint method to generate Pareto-optimal solutions, balancing trade-offs between economic, environmental, and operational objectives. Decision trees are employed to address uncertainty in customer demand and livestock purchasing costs.
 Prerequisites
+
+
 To run the Jupyter Notebook, you need to have the following software and Python libraries installed:
 •	Python 3.x
 •	Jupyter Notebook or JupyterLab
@@ -21,8 +25,12 @@ To run the Jupyter Notebook, you need to have the following software and Python 
 •	Pandas: For data manipulation.
 •	NumPy: For numerical operations.
 •	Matplotlib: For plotting the results.
+
+
 Reference
 Mohebalizadehgashti, F., Zolfagharinia, H., & Amin, S. H. (2020). Designing a green meat supply chain network: A multi-objective approach. International Journal of Production Economics, 219, 312-327.
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
