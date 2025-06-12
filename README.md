@@ -18,12 +18,21 @@ Prerequisites
 
 
 To run the Jupyter Notebook, you need to have the following software and Python libraries installed:
+
 •	Python 3.x
+
 •	Jupyter Notebook or JupyterLab
+
 •	Pyomo: A Python-based open-source software package for formulating and solving optimization models.
-•	GLPK (GNU Linear Programming Kit): A solver that Pyomo can interface with. You'll need to install this separately on your system. For Windows, you can download pre-compiled binaries. For Linux, it's usually available via package managers (e.g., sudo apt-get install glpk-utils). For macOS, you can use Homebrew (brew install glpk).
+
+•	GLPK (GNU Linear Programming Kit): A solver that Pyomo can interface with. 
+
+You'll need to install this separately on your system. For Windows, you can download pre-compiled binaries. For Linux, it's usually available via package managers (e.g., sudo apt-get install glpk-utils). For macOS, you can use Homebrew (brew install glpk).
+
 •	Pandas: For data manipulation.
+
 •	NumPy: For numerical operations.
+
 •	Matplotlib: For plotting the results.
 
 
